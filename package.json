@@ -1,0 +1,11 @@
+{
+  "name": "veto",
+  "version": "1.0.0",
+  "description": "Veto picker app for slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "/veto"
+  },
+  "author": "mlaposata",
+  "license": "ISC"
+}
